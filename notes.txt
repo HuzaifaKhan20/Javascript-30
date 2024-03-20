@@ -1,1 +1,7 @@
+04_Array_Cardio_Day 11:27
+
 https://www.toptal.com/developers/keycode = To know the code of key pressed on the keyboard
+
+*) filter = We will give 10 items and it will return 2.
+*) Map = We will give 10 items and it will do something and return the same length (10) array.
+*) querySelector = It will return Node List.
